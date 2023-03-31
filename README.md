@@ -1,6 +1,7 @@
 # Немного обо мнe
 
-<image src="/images/foto.jpg" alt="просто фото">
+![Текст с описанием картинки](https://github.com/Jazwel/pages/blob/main/foto.jpg)
+
 
 Меня зовут Дмитрий мне 37 лет
 Живу в городе Москва
